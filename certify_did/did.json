@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:GausiyaFarheen.github.io:certify-local3:certify_did"
+    "did:web:gausiyafarheen.github.io:certify-local3:certify_did"
   ],
   "service": [],
-  "id": "did:web:GausiyaFarheen.github.io:certify-local3:certify_did",
+  "id": "did:web:gausiyafarheen.github.io:certify-local3:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MknhdkoEwMsXp23os8LbYkqhLmrxe75dyeMk6DtyyKtosi",
-      "controller": "did:web:GausiyaFarheen.github.io:certify-local3:certify_did",
-      "id": "did:web:GausiyaFarheen.github.io:certify-local3:certify_did#SFGFjKpTOg7pIZ5xn56zX5YxLjUUNw7Fe5AxUxNwhbM",
+      "publicKeyMultibase": "z6MkfuUJdBn8uX3CSqgji8KefkVWJ9jvKz1zjBRRiSRGwZaC",
+      "controller": "did:web:gausiyafarheen.github.io:certify-local3:certify_did",
+      "id": "did:web:gausiyafarheen.github.io:certify-local3:certify_did#SFGFjKpTOg7pIZ5xn56zX5YxLjUUNw7Fe5AxUxNwhbM",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:GausiyaFarheen.github.io:certify-local3:certify_did"
+    "did:web:gausiyafarheen.github.io:certify-local3:certify_did"
   ]
 }
