@@ -6,7 +6,7 @@
   "id": "did:web:gausiyafarheen.github.io:certify-local3:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MknWkGTii5AppUX95SW1Lkc6FG3jLQ5yz5MNvEDAkYvLZQ",
+      "publicKeyMultibase": "z6MkuguwVSBrhiSYuJJVMietR9uB22bGDdk4GFCNyDqGoaqv",
       "controller": "did:web:gausiyafarheen.github.io:certify-local3:certify_did",
       "id": "did:web:gausiyafarheen.github.io:certify-local3:certify_did#QogVglBGgG-YXnAkodNKUt_LBLIuZ0M_rZpwdh6Fj40",
       "type": "Ed25519VerificationKey2020",
